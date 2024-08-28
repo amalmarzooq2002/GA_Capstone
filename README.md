@@ -150,12 +150,11 @@ The aim of this analysis is *to characterize the source interactions of dielectr
 
 1 - The mass of dielectron source particles.<br/>
 2 - Dominance of interactions in quantity, transverse momentum and spatial distribution.<br/>
-3 - The difference in both electron characteristics.<br/>
 
 As probes:
 
-4 - Important events dominance in Barrel versus Endcaps region.<br/>
-5 - The Invariant mass resolution of both regions.<br/>
+3 - Important events dominance in Barrel versus Endcaps region.<br/>
+4 - The Invariant mass resolution of both regions.<br/>
 
 
 
